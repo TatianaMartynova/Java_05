@@ -10,7 +10,7 @@ public class FizzBuzz {
                      if (number % 15 == 0) {
                          array[i] = "FizzBuzz";
                      } else if (number % 3 == 0) {
-                         array[i] = "Fizz"
+                         array[i] = "Fizz";
                      } else if (number % 5 == 0) {
                          array [i] = "Buzz";
                      } else {
